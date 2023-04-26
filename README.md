@@ -1,4 +1,4 @@
-# Sarah Fuchi - Data Science Projects Portfolio
+# Sushant Giri - Machine Learning Projects Portfolio
 
 ## Index
 
